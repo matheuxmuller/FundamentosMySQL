@@ -1,3 +1,3 @@
 # Banco de dados relacionais com Oracle MySQL
 
-Repositório das aulas na Generation Brasil.
+Repositório das aulas sobre banco de dados relacionais utilizando Oracle MySQL, durante o bootcamp da Generation Brasil.
