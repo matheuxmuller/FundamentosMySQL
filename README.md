@@ -1,3 +1,3 @@
-# mysql
+# Banco de dados relacionais com Oracle MySQL
 
-Repositório das aulas de noções iniciais com banco de dados relacionais em Oracle MySQL na Generation Brasil.
+Repositório das aulas na Generation Brasil.
